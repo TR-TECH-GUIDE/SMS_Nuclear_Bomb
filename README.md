@@ -35,6 +35,6 @@ On Android versions prior to Android 6.0, wallabag requires the following permis
 - View Network Connections.
 - WAKE LOCK.
 
-## The most important point
+## The Most Important Point
 - Some of the links and other links used to activate this app are the ones I received over the internet and have nothing to do with them, I created the app and I am not responsible for any inconvenience this may cause to any company or organization.
 - Be sure to use this for entertainment purposes only, as no one can reuse it by abusing this application.
